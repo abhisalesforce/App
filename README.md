@@ -2,7 +2,7 @@
 
 Twitter Clone
 
-This is a singer user twitter clone which is built with the help of Silex framework.
+This is a single user twitter clone which is built with the help of Silex framework.
 
 
 Functionality :
